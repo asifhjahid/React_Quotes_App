@@ -1,0 +1,11 @@
+.create {
+    max-width: 70%;
+    margin-top: 10px;
+}
+
+.action_btn{
+    margin: 0 4px;
+}
+.createBtn{
+    display: flex;
+}
